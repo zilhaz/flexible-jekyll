@@ -3,7 +3,7 @@ layout: post
 title: DOES OPEN DATA REALLY NEED TO BE LINKED (DATA)?
 date: 2011-10-05 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: i-rest.jpg # Add image post (optional)
+img: LInked.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [open_date, linked_data]
 ---
