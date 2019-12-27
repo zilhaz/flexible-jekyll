@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WHY I AM A DIE-HARD FAN OF STEVE JOBS BUT DON’T LIKE ISTUFF
-date: 2011-12-20 
+date: 2011-12-20
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: steve_jobs.jpg # Add image post (optional)
 tags: [steve_jobs] # add tag
