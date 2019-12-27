@@ -11,8 +11,6 @@ So, what is the next wave after Web 2.0 (aka Social Web)? If we ask this questio
 
 In practice all the Open Data publishers do not necessarily care about publishing their data as Linked Data. However, Tim Berners-Lee led W3C recommends the Open Data and/or Government data publishers to put their data on the web as Linked Data (and it helps W3C in their progress towards Semantic Web). According to Tim Berners-Lee “The term Linked Data refers to a set of best practices for publishing and connecting structured data on the web”. This idea of Linked Data is also associated with Tim Berners-Lee’s vision of Semantic Web.
 
-![I and My friends]({{site.baseurl}}/assets/img/Linked.png)
-
 Some Open Data publishers follow W3C recommendation and publish their Open Data as Linked Data. Therefore apparently the Open Data available in the web can be divided into two categories – Linked Open Data and Non Linked Open Data. So, the question is, does Open Data really need to be Linked? And, Who needs Semantic Web?
 
 At this moment, perspectives towards the Open Data vary from organisation to organisation according to their organisational nature and motivation behind publishing Open Data. For instance, according to Local Government Improvement and Development (UK), “The idea behind Open Data is that information held by government should be freely available to use and re-mix by the public”. On the other hand, W3C emphasises more on the technical aspects  and standard of data publishing while discussing about Open Data. W3C’s approach towards Open Data is influenced by the Tim Berners-Lee’s Linked Data concept.
