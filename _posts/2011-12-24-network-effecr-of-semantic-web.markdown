@@ -3,7 +3,7 @@ layout: post
 title: NETWORK EFFECT OF SEMANTIC WEB
 date: 2011-12-24
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: how-to-start.jpg # Add image post (optional)
+img: network.png # Add image post (optional)
 tags: [semantic_web, network_effect] # add tag
 ---
 In brief, Semantic Web is a network of distributed databases as oppose to existing web which is more of a network of distributed webpages. According to Robert M Metcalfe (also known as Bob Metcalfe),  the value of a network is proportional to the square of the number of nodes on the network. Mathematically it can be expressed as
@@ -33,3 +33,6 @@ Mashup applications is a notable use of  Open Linked Data projects. In Semantic 
 However, Reed’s law is not also out of any criticism. Obviously, all the Linked Data are not relevant to each other (even though technically they can be linked). Therefore, critics say Metcalfe’s law and Reed’s law overestimate the value of networks to some extent.
 
 In one of my previous posts, I sort of divided all the Open Data projects into two categories – Linked Open Data projects (e.g. DBPedia, Data.gov.uk etc) and Non Linked Open Data projects (Pachube, DataGM etc). So according to our above discussion by applying Metcalfe’s law and Reed’s law we can say DBPedia and Data.gov.uk have more network value than Pachube and DataGM as the Open Data of first two websites are Linked Data. Now if we can transform the entire web into Semantic Web then the network effect of the web will be astronomical which will enable enormous number of new applications of the web.
+
+------
+Image source: Lifeboat.com
