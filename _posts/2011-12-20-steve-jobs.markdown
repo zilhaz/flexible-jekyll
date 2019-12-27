@@ -3,7 +3,7 @@ layout: post
 title: WHY I AM A DIE-HARD FAN OF STEVE JOBS BUT DON’T LIKE ISTUFF
 date: 2011-12-20 
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: steve?jobs.jpg # Add image post (optional)
+img: steve_jobs.jpg # Add image post (optional)
 tags: [steve_jobs] # add tag
 ---
 As anticipated, Steve Jobs biography authored by Walter Isaacson has become a best seller in Amazon, in fact as of now it holds number one position at Amazon’s top 100 book list. After reading this book, I came into the conclusion that this book is a must-read for anyone interested in technology and arts or even for the ones who just love reading inspirational books.
