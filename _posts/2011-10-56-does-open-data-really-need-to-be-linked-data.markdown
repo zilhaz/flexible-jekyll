@@ -3,9 +3,9 @@ layout: post
 title: DOES OPEN DATA REALLY NEED TO BE LINKED (DATA)?
 date: 2011-10-05 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: LInked.png # Add image post (optional)
+img: Linked.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [open_date, linked_data]
+tags: [open_data, linked_data]
 ---
 So, what is the next wave after Web 2.0 (aka Social Web)? If we ask this question to the inventor of the web Tim Berners-Lee most probably the answer would be Semantic Web. The vision of Semantic Web is to transform the web into a distributed database system where all the data in the web will be interconnected and machine readable. Some Semantic Web evangelists are so optimistic about the future of Semantic Web that they are using the terms Semantic Web and Web 3.0 almost synonymously! According to Tim Berners-Lee’s vision of Semantic Web, the web should have the functionality of connecting all of its data to each other as Linked Data just like the hyperlinks of webpages in the present web architecture. Tim Berners-Lee is also a pioneer of Open Data movement. As Open Data are published in public domains, it offers the perfect playground for Semantic Web and Linked Data supporters.
 
