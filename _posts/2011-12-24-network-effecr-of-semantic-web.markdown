@@ -16,7 +16,7 @@ Can we can also apply Metcalfe’s network effect law on Semantic Web to estimat
 
 Now, as most of the Linked Open Data projects follow W3C Semantic Web recommendations and use RDF therefore, we can consider those individual data as “nodes” and the Semantic Web as a network. So, every time a new data or dataset added as Linked Open Data the value of Semantic Web is increasing according to Metcalfe’s law. Below is a visualisation of open Linked Data sources (we can consider them as “nodes” in Metcalfe’s law) of DBPedia.org –
 
-{{site.baseurl}}/assets/img/semantic.png
+![Image]({{site.baseurl}}/assets/img/semantic.png)
 
 Figure: Some of the data sources of DBPedia.org
 
