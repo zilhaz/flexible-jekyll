@@ -7,7 +7,7 @@ img: michael_clarke.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [cricket] # add tag
 ---
-By no stretch of imagination I'd say Michael Clarke & Co. read my [yesterday's post](http://www.zilhaz.info/2012/11/21/bangladesh-vs-west-indies-2nd-test-day-1-of-a-cricket-fan/), felt a punch in the face and decided to regain their  "a team who play for high run rate in test innings" reputation from Bangladesh! At the stumps of day one 482/5 with 5.55 RR! OK Aussies. We are giving you the credit and admitting that Bangladesh is not the only team in post-Australian-dominance era who can score 4.00+ RR in a test day 😉
+By no stretch of imagination I'd say Michael Clarke & Co. read my yesterday's post, felt a punch in the face and decided to regain their  "a team who play for high run rate in test innings" reputation from Bangladesh! At the stumps of day one 482/5 with 5.55 RR! OK Aussies. We are giving you the credit and admitting that Bangladesh is not the only team in post-Australian-dominance era who can score 4.00+ RR in a test day 😉
 
 So, Pup (Michael Clarke) now has double double-century in this series! Of course he needs a pair of strong arms to do such of a *big deal, *so let's talk about his arm :-S  (yeah I mean the physical body arm if you wonder). Just look at his left arm a bit closely.
 
@@ -15,4 +15,4 @@ Yes, its tattoo of an Arabic script ألم الإنضباط هو شيء م�
 
 Anyway, let's talk about cricket a bit now. It was really eye-pleasing to watch (well, honestly speaking I just read Cricinfo live feed but we still can call it watching, right? no? :-S) Aussie batting approach today. Warner's batting just made me nostalgic...Hayden you bloody monster, we miss you!
 
-I did put that BD vs. WI thing in the title, but seriously what to talk about it? Now you see why I say |too" slow run rate is boring even in test cricket? I don't think Samuels and Bravo can sleep well tonight. They just slept all day today! 😉
+PS: I did put that BD vs. WI thing in the title, but seriously what to talk about it? Now you see why I say |too" slow run rate is boring even in test cricket? I don't think Samuels and Bravo can sleep well tonight. They just slept all day today! 😉
