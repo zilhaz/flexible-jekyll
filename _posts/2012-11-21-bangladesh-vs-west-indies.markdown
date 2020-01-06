@@ -1,38 +1,48 @@
 ---
 layout: post
-title: BANGLADESH VS WEST INDIES 2ND TEST: DAY 1 (OF A CRICKET FAN)
-date: 2012-11-21
+title: CONCEPTUAL ARGUMENTS ON SEMANTIC WEB
+date: 2011-12-21 
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: network.png # Add image post (optional)
-tags: [semantic_web, network_effect] # add tag
+img: semantic.png # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [semantic_web] # add tag
 ---
-In brief, Semantic Web is a network of distributed databases as oppose to existing web which is more of a network of distributed webpages. According to Robert M Metcalfe (also known as Bob Metcalfe),  the value of a network is proportional to the square of the number of nodes on the network. Mathematically it can be expressed as
 
-V = n^2 (where, “V” is the value of the network and “n” is the number of nodes in that network)
+Lately there has been a lot of discussios going on whether “Semantic Web” is going to be the main feature of Web 3.0 or its just an ambitious vision of Tim Berners-Lee. In this post, I am going to talk about the feasibility of Semantic Web from some conceptual perspectives that mainly includes Syllogism, AI and Godel’s incompletness theorem.
 
-Metcalfe’s law is also known as “Network Effect”. Even though initially Robert M Metcalfe formulated this law for Ethernet network however it has been implemented in other networking concepts as well that include web technology, social networking, business network and so on.
+According to Shirky Clay “The Semantic Web is a machine for creating syllogism”. “Syllogism” is one of the most famous contributions of prominent Greek philosopher Aristotle in the study of logic.
 
-Can we can also apply Metcalfe’s network effect law on Semantic Web to estimate its value? Semantic Web is still just a vision, however we can consider Linked Open Data projects as miniature versions of Semantic Web. Therefore, by estimating the network effect of Open Data we can get an idea about the value of Semantic Web. By definition, Linked Open Data are obviously connected therefore we can consider Linked Open Data as a network of Open Data.
+A syllogism is a three-step argument with three assertions. The first two steps are called “premises” and the last assertion is called “conclusion”. Here is an example of syllogism –
 
-Now, as most of the Linked Open Data projects follow W3C Semantic Web recommendations and use RDF therefore, we can consider those individual data as “nodes” and the Semantic Web as a network. So, every time a new data or dataset added as Linked Open Data the value of Semantic Web is increasing according to Metcalfe’s law. Below is a visualisation of open Linked Data sources (we can consider them as “nodes” in Metcalfe’s law) of DBPedia.org –
+* 1st assertion (premise): Lancaster University is in Lancaster.
+* 2nd assertion (premise): Lancaster is in the UK.
+* 3rd assertion (conclusion): Lancaster University is in the UK.
 
-![Image]({{site.baseurl}}/assets/img/semantic.png)
+Even though Aristotle discussed about “Syllogism” in 300 BC however the concept of “Ontology” in Semantic Web has a direct relation with Syllogism. This becomes obvious from the example of Ontology Tim Berners-Lee mentioned in his seminal paper on Semantic Web (title: The Semantic Web)  – “If a city code is associated with a state code, and an address uses that city code, then that address has the associated state code”.
 
-Figure: Some of the data sources of DBPedia.org
+Syllogism is an important element of Semantic Web. It helps to discover relations between resources that are true but not explicitly specified.  However, Shirky, Clay argues that, syllogism is not always useful. In real world most of the scenarios are far more complex than above mentioned Tim-Berners-Lee’s example. At times, conclusion in syllogism might be terribly wrong or syllogism might take form of Sorites paradox.
 
-In Web 2.0 literature, Metcalfe’s law is often used to emphasise the value of social networks. In Semantic Web, the value of the Linked Data network would be a lot more than web 2.0 (or social web) as in this case number of nodes (data or dataset) is much bigger.
+(Sorites paradox: The paradox of the heap of sand is an example of Sorites paradox. If there is N number of grains in a heap of sand and if we start removing grains one-by-one then at some point there will be only one grain left in the heap. As its impossible to decide at which point the left over sand cannot be considered as heap any longer, the last remained grain also should be considered as heap! )
 
-If we take Reed’s law into consideration; for defining the value of Semantic Web we will get even a larger valuation than that we get using Metcalfe’s law. In Reed’s law, value of a network grows much faster than Metcalfe’s law. According to Reed’s law, the value and power of a network increases exponentially with the number of nodes in the  network;  expressed mathematically as 2 to the nth power (2n). That means –
+Artificial Intelligence is a frequently discussed topic in Semantic Web literature. Understanding real-world context is an Artificial Intelligence (AI) problem. Even though Semantic Web concept is relatively new, however the researchers have been working on AI for quite a long time. But still AI is far away from being implemented in decision-making activities in real world scenarios. Regarding dealing with real world scenarios, Semantic Web took an opposite direction compare to that of AI. Instead of understanding complex real world scenarios, Semantic Web aims to describe the real world scenarios in less-complex way. However, as we have mentioned earlier, such simplification of real world scenario often shows terrible results. Below is an example of such consequence –
 
-V = 2n (where, “V” is the value of the network and “n” is the number of nodes in that network)
+* Statement 1: Mr X lives in England.
+* Statement 2: People live in England speaks in English.
 
-In Reed’s law, the number of possible sub-groups within a network also being taken into consideration. Again, social networking websites can be an ideal analogy to explain this growth. In social networks (e.g. Facebook) we can form “groups”. In Metcalfe’s law these the number of “groups” is not considered, only the number of “members” is considered. However, obviously the members can also form group within the social network and these groups can also add value to the network in much larger scale than the value created by a single individual member.
+Conclusion: Mr X speaks in English.
 
-Mashup applications is a notable use of  Open Linked Data projects. In Semantic Web, we can take the different datasets from different sources and develop more mashups applications. Every time a new Linked Open Dataset is added in Semantic Web, it also adds a possibility of forming a new group with other dataset(s). Therefore, with inclusion of a new Linked Open Dataset in Semantic Web, the value of Semantic Web increases in a huge scale (2n) if we apply Reed’s law.
+However, Mr X might be an immigrant who does not speak in English. There is no guaranty that based on N number of factors a system can always decide the real condition of a particular object or scenario.
 
-However, Reed’s law is not also out of any criticism. Obviously, all the Linked Data are not relevant to each other (even though technically they can be linked). Therefore, critics say Metcalfe’s law and Reed’s law overestimate the value of networks to some extent.
+Global Ontology for Semantic Web also requires agreed standards on the objects/resources. In real world, for number of objects/resources/things there is no universally agreed standards or definition. Furthermore, definitions and standards evolve or change. In small-scale it might be possible (e.g. DBPedia) to agree on common standards for describing objects however for world-wide-web-scale implementation probably this is too ambitious.
 
-In one of my previous posts, I sort of divided all the Open Data projects into two categories – Linked Open Data projects (e.g. DBPedia, Data.gov.uk etc) and Non Linked Open Data projects (Pachube, DataGM etc). So according to our above discussion by applying Metcalfe’s law and Reed’s law we can say DBPedia and Data.gov.uk have more network value than Pachube and DataGM as the Open Data of first two websites are Linked Data. Now if we can transform the entire web into Semantic Web then the network effect of the web will be astronomical which will enable enormous number of new applications of the web.
+In fact, even the campaigners of Semantic Web admits the possibility of paradoxical situations in Semantic Web. According to Tim Berners-Lee, “Semantic Web researchers, in contrast, accept that paradoxes and unanswerable questions are a price that must be paid to achieve versatility”.
 
-------
-Image source: Lifeboat.com
+Godel’s incompletness theorem  can also go against the concept of Semantic Web. According to W3C’s web document “The Self-describing web” –
+
+“RDF provides an interoperable means of publishing and linking self-describing Web data resources, and for integrating representations rendered using other technologies such as XML. The result is a single, global self-describing Semantic Web that integrates not only resources that are themselves built or represented using RDF, but also the other Web resources to which that RDF links, as well as those that can be mapped to RDF using technologies such as GRDDL” (MENDELSOHN, Noah, 2009)
+
+However, according to Godel’s incompleteness theorem –
+
+“…there would always be some propositions that couldn’t be proven either true or false using the rules and axioms of that mathematical branch itself. You might be able to prove every conceivable statement about numbers within a system by going outside the system in order to come up with new rules and axioms, but by doing so you’ll only create a larger system with its own unprovable statements. The implication is that all logical system of any complexity are, by definition, incomplete; each of them contains, at any given time, more true statements than it can possibly prove according to its own defining set of rules”. (JONES, Judy and WIILSON, William)      
+
+The web has become a part and parcel of our lives. Probably, it is too late to do any new experiment with the fundamental structure of the web. One misinterpretation of semantic meaning might have serious consequence in our lives. The idea of self-describing Linked Data might be appropriate for certain Open Data campaigns but for full blown web-scale implementation a lot more research on the possible consequences should be done. The world may not be ready yet (not even in any near future) to see Pete and Lucy’s (Semantic Web) agents taking all the decisions on behalf of them as mentioned in Tim Berners-Lee’s  seminal paper on Semantic Web.
