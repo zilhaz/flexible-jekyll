@@ -1,7 +1,7 @@
 ---
 layout: post
-title: NETWORK EFFECT OF SEMANTIC WEB
-date: 2011-12-24
+title: BANGLADESH VS WEST INDIES 2ND TEST: DAY 1 (OF A CRICKET FAN)
+date: 2012-11-21
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: network.png # Add image post (optional)
 tags: [semantic_web, network_effect] # add tag
