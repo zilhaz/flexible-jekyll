@@ -3,7 +3,7 @@ layout: post
 title: BANGLADESH VS WEST INDIES 2ND TEST: DAY 1 (OF A CRICKET FAN)
 date: 2012-11-21
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: 151935.jpg # Add image post (optional)
+img: abul_hasan.jpg # Add image post (optional)
 tags: [cricket] # add tag
 ---
 ...nonono, seriously, show me a Day 1 of a test match in recent past (or even distant past) where a side scored RR 4.24 at the stumps! You might be opening a new tab on your browser as you are reading it now and heading to Cricinfo statistics page just to prove me wrong (and you might prove me wrong) but establishing my argument as a fact is not my goal here anyway 😉 The naive point I am trying to make here is that, higher run rate has lately become a feature of Bangladesh test cricket! (Please don't get started with test cricket is not about RR, it's all about patience, consistency and all that blabla...lemme finish first!)
