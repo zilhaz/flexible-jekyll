@@ -3,7 +3,7 @@ layout: post
 title: BANGLADESH VS WEST INDIES 2ND TEST: DAY 1 (OF A CRICKET FAN)
 date: 2012-11-21
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: abul_hasan.jpg # Add image post (optional)
+img: network.png # Add image post (optional)
 tags: [semantic_web, network_effect] # add tag
 ---
 In brief, Semantic Web is a network of distributed databases as oppose to existing web which is more of a network of distributed webpages. According to Robert M Metcalfe (also known as Bob Metcalfe),  the value of a network is proportional to the square of the number of nodes on the network. Mathematically it can be expressed as
