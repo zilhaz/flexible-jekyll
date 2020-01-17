@@ -1,6 +1,6 @@
 ---
 layout: post
-title: REMEMBERING THE BOOKS YOU LOVED
+title: THAT WONDER MORNING
 date: 2017-01-14 
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: book.jpg # Add image post (optional)
