@@ -1,22 +1,27 @@
 ---
 layout: post
-title: THAT WONDER MORNING
-date: 2017-01-14 
+title: FROM LOSING MY FATHER TO BECOMING A FATHER
+date: 2017-05-13 
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: book.jpg # Add image post (optional)
+img: hakone_lake.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Book] # add tag
+tags: [Life] # add tag
 ---
-During my teenage, I think I read an insane number of books that were not listed as textbooks. If I had allotted a slim % of that reading time for the textbooks, I think I would become a better student, but that's a different story.
+THE REAL LIFE LESSONS that truly matter, matter so much so that they change us to the core, only come from the death and birth of our loved ones. At the beginning, right at the moment of the crude instance of death or birth, these lessons make all other teachings, learning, advice and idioms meaningless. Then when the intensity subdues and we come to terms with the newly learned lessons from death or birth, all other teaching, learning, advice and idioms become meaningful, or develop new meanings.
 
-The story I want to tell here is that, the books that once made me cry, taught me what to seek in life, fast-forward the timeline now I can barely remember anything about them! It's not a realistic expectation to remember everything I read (especially in this age of information overflow). However, I had not even taken any conscious attempt to preserve at least the summaries of those books in my memory.  If I had, I could have made better yields from those books in my life. After all, reading a book is time-wise quite a commitment.
+It has been two years since my father left from this world. And it has been three months since our daughter arrived to this world. In statistical terms, the equilibrium remains the same. But in my own world, the void created by my father just recently started to shrink a little. My daughter is not filling up the void left by my father, instead, she has brought an entire new world to me. But the eternal nature of time-flow and the *happy-dad* phase of my life have started decreasing the intensity of my thoughts about my father. In the first year of my life without my father, the thoughts of my father used to strike me with sheer intensity without any regard for time and space. Say I am in an office meeting, and from out of nowhere, the thoughts of my father strike me and the whole world starts to fall apart. Now, those thoughts are more controllable, less frequent. But I do not want that. My father is only living in my thoughts now. Sad but true, my father will not live in my daughter's thoughts. She did not even see him. At most, he will be living as a never-seen-grandpa in her knowledge, but not in her vivid memory. Then one more generation later, he will not live in anyone's thought or knowledge or memory anymore. And I cannot do anything about it. The only thing I can do is keep him in my thoughts, in my prayers, as long as I live. I recently realized that I do not even want my thoughts to bring him to me with such intensity so frequently. Bringing his memory with intensity simply means bringing grief into my fulfilling life (which now revolves around my daughter and my other loved ones).
 
-So, a couple of years ago, I created a folder in my Google Drive named "Books I read". Since then, after turning the last page of each book I read, I have been noting down the quotes, facts or my thoughts on  that book and save them in Google Drive. Sometimes, I just google summary of the book that I just have finished, and copy-pasted that summary into a new document in my Google Drive's folder.
+And this realization makes me feel selfish. Now again, I want my thoughts to bring my father to me with all the intensity it can amass, ignoring time and space.
 
-The result has been amazing! Now at a glance, I can see the books I read in the past and make a quick mental revision. If it feels the summary of any of those book has started to fade away from my memory, I just give my notes on that book a quick read, and the things fall into places again.
+Going back to the lessons I learned from the death of my father, I do not think I have the skills to write such deep thoughts or even enough conscious thinking skills to put them into words. These lessons reside only in...I do not know where, maybe in my soul, although I do not know what the soul is. The ambiguity of these lessons make them so much atypical from conventional wisdom.
 
-To close this note, here is a quite from poet Siegfried Sassoon on forgetting what we have read --
+Sometimes, I have complex, difficult problems in my life. I sit to pray so that God helps me to overcome them. But soon after starting my prayers, often I find that I am praying for my father. And then my problems, complexity, hurdles, obstacles, everything becomes so insignificant, pointless. It might be the last prayer of my life. Should I use up this opportunity to pray for my personal trivial problems? My father cannot pray for himself anymore. How can I be that selfish? I do not know why I am writing it here. Maybe that's the kind of lesson that I am talking about in this post, maybe it is not.
 
-> "For it is humanly certain that most of us remember very little of what we have read. To open almost any book a second time is to be reminded that we had forgotten well-nigh everything that the writer told us. Parting from the narrator and his narrative, we retain only a fading impression; and he, as it were, takes the book away from us and tucks it under his arm. "
->
+I have been thinking about writing this post for a long time. I believe, writing is the best way to preserve memory. Even our own memory which is safely and nicely stored in our neuron cells can mess up facts and cases big time. ['False memory'](https://en.wikipedia.org/wiki/False_memory){:target="_blank"} is an interesting topic in psychology. But if you write something from the core of your heart and if you look at it after ten years, the writing will not only remind you of the facts, but also the emotions, even the intuitions you had at the time of the write up. So, I know I had to write about my father when my feeling for him is still extremely strong and the memories are still intact. But then, I started arguing with myself, should I write it as a public post? At the end, I decided affirmative. I do not maintain any diary. Plus, if I write it up for a public domain, it will force me to organize my thoughts about my father and that's the sole reason I have decided to work on this post in the first place.
+
+Anyway, to end the notes about my father, my father is teaching me more about life since he died than he did when he was alive. I do not want time, reality, life, or even my *happy-dad-of-a-cute-daughter* state to cloud over my thoughts about my father and cease the lessons I have been learning from him, since the day he died.
+
+As for my three-month old daughter, after a busy, long day when I get home and she greets me with a big (toothless) smile and talks to me in her unary language which consists of just one syllable "uuu" but varies in length depending on her expression, I realize that is it. THAT IS TOTALLY IT! That is happiness in its most authentic and pure form!
+
+The only sigh - my father could not see her toothless smile and hear her unary language. Or maybe, he is seeing and hearing all of it. Or maybe it is just wishful thinking on my part. Someday, I will be able to know it myself.
 
