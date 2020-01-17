@@ -13,7 +13,7 @@ No! Don't click on the "Forgot your password" link and go through that lengthy p
 
 Method 1: Sign out from your Facebook or any other account, be it email or whatever. If the password field does not have "show password" option as below,
 
-![Image]({{site.baseurl}}/assets/img/showpassword.png)
+![Image]({{site.baseurl}}/assets/img/showpassword.PNG)
 
 
 ......then do this. Right click on your browser → Click "Inspect element" → Then follow the 3 steps (in red) on the screenshot below
@@ -21,7 +21,7 @@ Method 1: Sign out from your Facebook or any other account, be it email or what
 (For better visibility, click on the image)
 
 ![Image]({{site.baseurl}}/assets/img/password.png)
-Show my password
+*Show my password*
 
 You can follow these same steps on Internet Explorer, Firefox and other browsers. There may be slight differences in the interface in other browsers, but the basic idea is the same. Look for type="password" and change it to type="text" (step 3 from the screenshot shown above).
 
