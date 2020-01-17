@@ -1,0 +1,26 @@
+---
+layout: post
+title: TO THOSE WHO ARE GONE
+date: 2015-08-12 
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: tokyotower.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Photography] # add tag
+---
+First thing first, I am 4,506,396 km far from becoming a pro-photographer (Right, I love making up numbers :/). That said, I have been trying to get a grip on photography for a year or two now and I might be able to throw some tips at you, if you are contemplating getting started with photography --
+
+i. You DON'T need a DSLR camera to learn photography. True that, you need a DSLR camera for fireworks, long-exposure photographies, but for most of the other types, a smart phone should be good. In some cases, smart phone is even a better alternative to a DSLR. For example, "selfies". Especially Duckface selfies. Don't you like Duckface selfies? I don't.
+
+ii. Before buying a DSLR camera, I did some serious photography with an Android phone. At first, I learned the ins and outs of my smart phone's camera settings. I installed [Camera FV-5 app](https://play.google.com/store/apps/details?id=com.flavionet.android.camera.lite){:target="_blank"}, which virtually transforms a smart phone camera to a DSLR camera. Check it out. When I was sharing those smart phone photography on Facebook, some of my friends were asking me what DSLR camera I was using! (Sorry for the bragging :/ Here I just want to highlight the fact that you can do decent photography with your smart phone).
+
+iii. Okay, this point might offend some people but I have to say it. I often see some people abuse their DSLR cameras! Yes, you bought it with your hard-earned money but that does not give you the freedom to abuse your camera. Show some love and respect to it. Please google and youtube how to use a DSLR. If you are not a Martian, then Google and YouTube should have all the answers of the questions that you can ever imagine. Learn how to change your camera lens. A camera lens is the most sensitive thing in this world (well, in some cases may be only second to your lover) and it's very easy to get some dust in the camera while changing the lens. Google how to change camera lens. Google "how to change camera lens". Google [Rule of thirds](https://en.wikipedia.org/wiki/Rule_of_thirds){:target="_blank"}.
+
+iv. A common amateur misconception about the photography is that, image editing/enhancement equals cheating. Once someone told me, if you edit the photo, that means you are faking the photo by making the photo looking better than the actual scene. I guess, most likely, that person thinks a camera can capture the actual scene, seen by a pair of human eyes!!! LOL. Dear friend, our technology is light-years far from inventing a camera which can capture a photograph in the same quality as human eyes. In most of the cases, an unedited version would do worse job than a nicely edited version in representing the real scene. The edited version would at least please our eyes! I agree, some photographers use image editing for evil purposes. But most of the photographers do image editing just to retrieve the actual scene and feel in a photograph. A DSLR camera is not as smart as our brain (do I even have to say it?). When we see something, our brain knows what to ignore and what to capture. A camera can't always do this judgment. In some cases, the photo holds a lot of information of the actual scene but can't display it like the actual scene -- and that's where the power of image editing kicks in. Example, in the image below, look at the ""before" version of the image. Do you see any Japanese letters below the frog? No. But if you were present there, you would see some Japanese characters just below where the frog is sitting. Did the camera miss it then? No, it captured the characters but is not displaying it in the image's current setting. Now, using an image processing software, I simply reduced the "Shadow" in the image and BOOM! There are two Japanese characters (thanks to the image editing)! Would you call it cheating?
+
+Bottom-lime: Learn some image processing/editing to become a good photographer. My personal favorite is Adobe Lightroom.
+
+![Image]({{site.baseurl}}/assets/img/photography.jpg)
+
+I'd like to close this note with yet another suggestion. We don't look "cool" just because we are holding an expensive DSLR. At times, I see some newbie holding a DSLR as if it's a AK47! Anyone can buy a camera. Nothing special about just holding or having a DSLR. There are millions of photographers out there and thousands of them are most likely better than you and me. So, let me remind you (and myself) about Steve Jobs' that famous saying -- "STAY HUNGRY, STAY FOOLISH" (With smart phone & DSLR cameras). Adios.
+
+Bonus: Here are some tips on image composition [https://www.colesclassroom.com/](https://www.colesclassroom.com/3-photo-composition-tips/){:target="_blank"}
