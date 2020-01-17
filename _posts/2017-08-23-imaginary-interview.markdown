@@ -7,6 +7,8 @@ img: interview.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Life] # add tag
 ---
+>"I really hope the adults of this world will grow up before I grow up!"
+
 Q: Welcome to this interview. Just a while ago, you were crying so loud that we could only see your wailing face without being able to hear anything. Most likely, your screaming exceeded the audible limit of human ear which is around 20 kHz. Are you okay now?
 
 A: Did you mean 2 kHz?
@@ -35,8 +37,6 @@ A: The shoulder of my dad’s shirt. Especially in the mornings when he is fully
 Q: Being able to put your toes inside your mouth sounds quite acrobatic, but I am not sure if either of your examples fall under any food category! Anyway, are you enjoying growing up in Japan?
 
 A: I am enjoying growing up in this beautiful world!
-
->"I really hope the adults of this world will grow up before I grow up!"
 
 Q: Quite a political answer! Speaking of politics, what do you think about the current state of world politics?
 
