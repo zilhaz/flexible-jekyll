@@ -3,7 +3,7 @@ layout: post
 title: STAY HUNGRY, STAY FOOLISH (WITH SMART PHONE & DSLR CAMERAS)
 date: 2015-07-27 
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: photography.jpg # Add image post (optional)
+img: tokyotower.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Photography] # add tag
 ---
@@ -23,4 +23,4 @@ Bottom-lime: Learn some image processing/editing to become a good photographer. 
 
 I'd like to close this note with yet another suggestion. We don't look "cool" just because we are holding an expensive DSLR. At times, I see some newbie holding a DSLR as if it's a AK47! Anyone can buy a camera. Nothing special about just holding or having a DSLR. There are millions of photographers out there and thousands of them are most likely better than you and me. So, let me remind you (and myself) about Steve Jobs' that famous saying -- "STAY HUNGRY, STAY FOOLISH" (With smart phone & DSLR cameras). Adios.
 
-Bonus: Here are some tips on image composition (https://www.colesclassroom.com/3-photo-composition-tips/){:target="_blank"}
+Bonus: Here are some tips on image composition [site](https://www.colesclassroom.com/3-photo-composition-tips/){:target="_blank"}
