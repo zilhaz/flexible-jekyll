@@ -16,7 +16,7 @@ If you want to search something on Wikipedia, most likely these are your usual s
 
 Now, how about this to get the same result? In your browser, you just type a letter like w, press spacebar, type the keyword and hit ENTER! Just like this screenshot.
 
-![Image]({{site.baseurl}}/assets/img/1.jpg)
+![Image]({{site.baseurl}}/assets/img/1.png)
 
 Let me help you to set it up in Chrome.
 
@@ -60,11 +60,11 @@ Step 8: In "Keyword" field, delete 'wikipedia.org' and just type 'w'. Then "Save
 
 The set up is done! Now in the Chrome browser, if you type 'w' and hit spacebar, you should be able to type the keyword you want to search in Wikipedia.
 
-![Image]({{site.baseurl}}/assets/img/wiki.png)
+![Image]({{site.baseurl}}/assets/img/1.png)
 
 After hitting ENTER, it will take you directly to Wikipedia's search result page!
 
-![Image]({{site.baseurl}}/assets/img/s3.png)
+![Image]({{site.baseurl}}/assets/img/wiki.png)
 
 Suffice to say, here Wikipedia search is just an example. Following the same steps, you can add any website (with a search feature) that you visit frequently.
 
