@@ -5,11 +5,11 @@
         {% if paginator.previous_page == 1 %}
         <p><a class="newer-posts" href="{{ site.baseurl }}/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i></a></p>
         {% else %}
-        <p><a class="newer-posts" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i></a></p>
+        <p><a class="newer-posts" href="{{ site.baseurl }}/page/{{ paginator.previous_page }}/"><i class="fa fa-long-arrow-left" aria-hidden="true"></i></a>
         {% endif %}
       {% endif %}
 
-      <p><span class="page-number">Page {{paginator.page}} of {{paginator.total_pages}}
+      <span class="page-number">Page {{paginator.page}} of {{paginator.total_pages}}
 
       {% if paginator.next_page %}
       <a class="older-posts" href="{{ site.baseurl }}/page/{{ paginator.next_page }}/"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></span></p>
