@@ -5,7 +5,7 @@ date: 2019-07-17
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: itil.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Browser] # add tag
+tags: [ITIL] # add tag
 ---
 Before you get  too excited seeing the title of this post, let me tell you that I have years of experience in IT Service Management. However, like almost all the certifications or standardized tests, in order to pass the exam, we need to familiarize ourselves with the exact terminologies and format used in that exam; even if we possess a decent level of experience and skill in that particular domain. So, if you have experience working in IT service management/solution architect/Business IT analyst type of roles and are thinking about obtaining the ITIL 4 certification in a short time, this post is for you!
 
