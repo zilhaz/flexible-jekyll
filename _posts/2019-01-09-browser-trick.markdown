@@ -9,7 +9,7 @@ tags: [Browser] # add tag
 ---
 If you want to search something on Wikipedia, most likely these are your usual steps --
 
-1.  Go to <https://www.wikipedia.org/> either by typing the URL in the browser or by clicking the bookmark icon if you already have bookmarked it before.
+1.  Go to <https://www.wikipedia.org/>{:target="_blank"} either by typing the URL in the browser or by clicking the bookmark icon if you already have bookmarked it before.
 2.  Wait for Wikipedia page to load
 3.  Navigate to search bar in Wikipedia
 4.  Search the keyword
