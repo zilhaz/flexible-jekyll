@@ -1537,7 +1537,7 @@ a.newer-posts:hover {
 }
 
 .container_contact .form input:focus, .container_contact .form textarea:focus {
-  background-color: rgba(191, 127, 127, 0.6);
+  background-color: rgba(255, 255, 255, 0.6);
 }
 
 .container_contact .form .form_btn {
