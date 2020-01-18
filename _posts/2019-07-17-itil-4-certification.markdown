@@ -3,7 +3,7 @@ layout: post
 title: HOW TO OBTAIN THE ITIL 4 CERTIFICATION WITH ONLY ONE WEEK PREPARATION AND A LOW COST INVESTMENT
 date: 2019-07-17 
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: itil.png # Add image post (optional)
+img: itil.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [ITIL] # add tag
 ---
