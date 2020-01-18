@@ -3,7 +3,7 @@ layout: post
 title: BROWSER TRICK - SEARCH FASTER WITH FEWER CLICKS
 date: 2019-01-09 
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: 1.png # Add image post (optional)
+img: wiki.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Browser] # add tag
 ---
