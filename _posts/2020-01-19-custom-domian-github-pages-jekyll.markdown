@@ -19,7 +19,7 @@ Set up custom domain on GitHub Pages as shown below. Make sure you are not typin
 
 Go to your domain name provider's website and set the records as shown below. Setting up CNAME with username.github.io is particularly important. Otherwise if someone types www before your website name, the browser will not be able to show the website. At the time of writing this post, GitHub Pages is using the below IP Addresses for A records. But it will be a good idea to check if there has been any change in these IP addresses. You can check it in this [GitHub Help page](https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#configuring-a-records-with-your-dns-provider){:target="_blank"}.
 
-![Image]({{site.baseurl}}/assets/img/resourcerecords.png)
+![Image]({{site.baseurl}}/assets/img/dnsrecords.png)
 
 **3. ****Edit YAML file**
 
