@@ -3,7 +3,7 @@ layout: post
 title: SETTING UP CUSTOM DOMAIN FOR A ‘GITHUB PAGES WITH JEKYLL’ SITE IN THE RIGHT WAY
 date: 2020-01-19 
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: Linked.png # Add image post (optional)
+img: githubjekyll.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [GitHub, Jekyll]
 ---
@@ -30,3 +30,6 @@ url: "https://www.example.com" # the base hostname & protocol for your site.
 ```
 
 If you follow above steps correctly, your site should be up and running shortly. Good luck!
+
+-----------
+*Image credit: https://guides.github.com/features/pages/*
