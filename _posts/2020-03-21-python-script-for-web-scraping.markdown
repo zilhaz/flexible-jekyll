@@ -45,7 +45,7 @@ You need to make only two changes in the script.
 
 Click "Run" in your repl.  You should see a csv file named "index.csv" in the left side of the screen. You can find the list of book titles and author names in this index.csv file. Mission accomplished!
 
-![Image]({{site.baseurl}}/assets/img/csv_index.png)
+![Image]({{site.baseurl}}/assets/img/script_output.png)
 
 And here is your script --
 
