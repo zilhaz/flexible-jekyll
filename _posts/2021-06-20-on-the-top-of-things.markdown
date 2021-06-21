@@ -1,15 +1,12 @@
 ---
 layout: post
-title: YES, YOU CAN HAVE IT ALL
+title: TO STAY ON THE TOP OF THINGS OR TO STAY ON THE BOTTOM OF THINGS?
 date: 2021-06-20 
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: diving.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [life]
 ---
-To stay on the top of things or to stay on the bottom of things?
-================================================================
-
 [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth), winner of the [Turing](https://en.wikipedia.org/wiki/Turing_Award) Award (considered the Nobel Prize of computer science) famously [wrote](https://www-cs-faculty.stanford.edu/~knuth/email.html),
 
 "Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration. I try to learn certain areas of computer science exhaustively; then I try to digest that knowledge into a form that is accessible to people who don't have time for such study."
