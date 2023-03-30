@@ -3,9 +3,9 @@ layout: post
 title: WHY PLAN A+ IS BETTER THAN PLAN B
 date: 2023-03-30 
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: plan a plus.png # Add image post (optional)
+img: plan.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [life]
+tags: [Planning]
 ---
 Have you ever heard the advice to always have a plan B in case your plan A fails? Well, I'm here to tell you that this advice is not always helpful. In fact, sometimes having a plan B can actually sabotage your plan A and prevent you from achieving your goals.
 
